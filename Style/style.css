@@ -1,0 +1,135 @@
+header {
+  display: flex;
+}
+
+.logo {
+  margin-left: 80px;
+  margin-top: 37px;
+  font-family: "Circular Std";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 30px;
+  line-height: 160%;
+  /* or 48px */
+  letter-spacing: -0.02em;
+  color: #0a1b32;
+}
+
+.logo-dot {
+  color: #fc569a;
+}
+
+.nav-items {
+  display: flex;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  /* identical to box height, or 150% */
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #1b0a42;
+}
+
+.home {
+  margin-left: 272.6px;
+  margin-top: 48px;
+}
+
+.about {
+  margin-left: 83px;
+  margin-top: 48px;
+}
+
+.blog {
+  margin-left: 83px;
+  margin-top: 48px;
+}
+
+.contact {
+  margin-left: 83px;
+  margin-top: 48px;
+}
+
+.sign-in {
+  margin-right: 120px;
+  margin-left: 600px;
+  margin-top: 48px;
+  width: 100px;
+  height: 24px;
+}
+
+.sign-up-button {
+  margin-right: 68px;
+  margin-top: 30px;
+  background: #fc569a;
+  border-radius: 6px;
+  padding-top: 18px;
+  padding-left: 31px;
+  padding-bottom: 18px;
+  padding-right: 31px;
+  width: 125px;
+}
+
+section {
+  display: inline-block;
+}
+
+section h1 {
+  margin-top: 212px;
+  margin-left: 174px;
+  max-width: 495px;
+  width: 100%;
+  margin-left: 200px;
+  font-family: Ramaraja, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 72px;
+  line-height: 76px;
+  /* or 106% */
+  letter-spacing: 0.02em;
+  color: #1b0a42;
+}
+
+section p {
+  max-width: 581.49px;
+  width: 100%;
+  margin-top: 6.7px;
+  margin-left: 200px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 32px;
+  /* or 160% */
+  letter-spacing: 0.02em;
+  color: #9a9a9a;
+}
+
+section button {
+  padding-top: 18px;
+  padding-left: 32px;
+  padding-bottom: 18px;
+  padding-right: 32px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 32px;
+  /* or 200% */
+  text-align: center;
+  letter-spacing: 0.02em;
+  color: #ffffff;
+  background-color: #fc569a;
+  border-radius: 6px;
+  margin-left: 200px;
+  margin-top: 50px;
+}
+
+section img {
+  width: 778px;
+  height: 526px;
+  left: 800px;
+  top: 205px;
+}
