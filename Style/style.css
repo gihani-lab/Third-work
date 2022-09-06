@@ -5,7 +5,7 @@ header {
 .logo {
   margin-left: 80px;
   margin-top: 37px;
-  font-family: "Circular Std";
+  font-family: "Circular Std", sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 30px;
@@ -21,7 +21,7 @@ header {
 
 .nav-items {
   display: flex;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 16px;
@@ -70,6 +70,7 @@ header {
   padding-bottom: 18px;
   padding-right: 31px;
   width: 125px;
+  border: none;git 
 }
 
 section {
@@ -82,7 +83,7 @@ section h1 {
   max-width: 495px;
   width: 100%;
   margin-left: 200px;
-  font-family: Ramaraja, sans-serif;
+  font-family: "Ramaraja", serif;
   font-style: normal;
   font-weight: 400;
   font-size: 72px;
@@ -97,7 +98,7 @@ section p {
   width: 100%;
   margin-top: 6.7px;
   margin-left: 200px;
-  font-family: "Roboto";
+  font-family: "Roboto", sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -112,8 +113,7 @@ section button {
   padding-left: 32px;
   padding-bottom: 18px;
   padding-right: 32px;
-  font-family: "Roboto";
-  font-style: normal;
+  font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 16px;
   line-height: 32px;
@@ -125,6 +125,7 @@ section button {
   border-radius: 6px;
   margin-left: 200px;
   margin-top: 50px;
+  border: none;
 }
 
 section img {
